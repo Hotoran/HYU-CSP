@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hunji/2019_ITE1015_2019031612/7-2-2/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+set
+-
+setfunc.h
+/home/hunji/2019_ITE1015_2019031612/7-2-2/setfunc.h
+
+/home/hunji/2019_ITE1015_2019031612/7-2-2/setfunc.cpp
+iostream
+-
+set
+-
+string
+-
+sstream
+-
+setfunc.h
+/home/hunji/2019_ITE1015_2019031612/7-2-2/setfunc.h
+
+/home/hunji/2019_ITE1015_2019031612/7-2-2/setfunc.h
+set
+-
+string
+-
+

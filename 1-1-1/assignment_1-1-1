@@ -1,0 +1,8 @@
+Creative Software Programming Assignment_1-1-1
+Lesson 1 Summary
+1. The cursor is moved using either the arrow keys or the hjkl keys.
+h (left) j (down) k (up) l (right)
+2. To start Vim from the shell prompt type: $vim FILENAME
+3. i is Input and ESC key is a out of vim type?...
+4. :q is quit and :q! is discarding all changes that I wrote.
+5. :w is saving changes you wrote the file.

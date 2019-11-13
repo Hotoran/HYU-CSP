@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hunji/2019_ITE1015_2019031612/7-1-2/intset.cpp
+vector
+-
+algorithm
+-
+intset.h
+/home/hunji/2019_ITE1015_2019031612/7-1-2/intset.h
+
+/home/hunji/2019_ITE1015_2019031612/7-1-2/intset.h
+vector
+-
+
+/home/hunji/2019_ITE1015_2019031612/7-1-2/main.cpp
+iostream
+-
+vector
+-
+intset.h
+/home/hunji/2019_ITE1015_2019031612/7-1-2/intset.h
+
