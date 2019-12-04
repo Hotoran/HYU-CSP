@@ -1,0 +1,3 @@
+/home/jihun/2019_ITE1015_2019031612/13-2-2/CMakeFiles/rebuild_cache.dir
+/home/jihun/2019_ITE1015_2019031612/13-2-2/CMakeFiles/exception2.dir
+/home/jihun/2019_ITE1015_2019031612/13-2-2/CMakeFiles/edit_cache.dir
